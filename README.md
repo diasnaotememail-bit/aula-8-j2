@@ -1,8 +1,6 @@
-# Desenvolvimento Web - Exercícios de JS
+# Aula 8 js 2 WEB
 
-Este repositório contém os exercícios práticos da **Aula 2 de JS**:
-
-## 📋 Arquivos
+## Meus Exercícios
 
 [Exercício 1](exercicio1.html)
 
